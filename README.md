@@ -24,5 +24,3 @@ Users can:
 - **JavaScript** (vanilla — no frameworks)
 - **Bootstrap 5.1.3** (via CDN)
 - **Font Awesome 6** (via CDN)
-
-## Project Structure
